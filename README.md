@@ -1,2 +1,0 @@
-# wpwaterforall.github.io
-resources
